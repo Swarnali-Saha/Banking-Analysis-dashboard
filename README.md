@@ -68,9 +68,17 @@ The Power BI report includes the following views:
 
 ---
 
-## 🔗 Power BI Dashboard Preview
+## 📸 Dashboard Previews
 
-[👉 Click Here to View the Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/home.png)
-[👉 Click Here to View the Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/loan_analysis.png)
-[👉 Click Here to View the Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/deposit_analysis.png)
-[👉 Click Here to View the Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/Summary.png)
+### 🔹 Home Page
+![Home Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/home.png)
+
+### 🔹 Loan Analysis
+![Loan Analysis](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/loan_analysis.png)
+
+### 🔹 Deposit Analysis
+![Deposit Analysis](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/deposit_analysis.png)
+
+### 🔹 Summary View
+![Summary Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/Summary.png)
+
