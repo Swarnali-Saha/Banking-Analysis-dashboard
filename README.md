@@ -1,4 +1,4 @@
-# 🏦 Banking Risk Analytics Dashboard - Power BI
+# 🏦 Banking Analytics Dashboard
 
 ## 📌 Problem Statement
 
@@ -7,6 +7,19 @@ The aim of this project is to build a basic understanding of risk analytics in t
 ## ✅ Solution Overview
 
 This Power BI dashboard provides meaningful insights to help banks make better lending decisions based on an applicant’s profile. It predicts whether the applicant is likely to repay the loan, thereby supporting risk minimization.
+
+## 🧪 Exploratory Data Analysis (EDA)
+
+Before building the dashboard, exploratory data analysis was performed using **Google Colab**. This helped in:
+
+- Understanding the structure and relationships within the dataset  
+- Identifying missing values and data quality issues  
+- Extracting early insights  
+- Defining key metrics and segments to visualize later in Power BI  
+
+📁 You can view the full EDA notebook here:  
+[🔍 View EDA Notebook on GitHub](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/BankEDA.ipynb)
+
 
 ## 🧹 Data Cleaning & Feature Engineering
 
@@ -57,4 +70,7 @@ The Power BI report includes the following views:
 
 ## 🔗 Power BI Dashboard Preview
 
-[👉 Click Here to View the Dashboard](https://app.powerbi.com/links/YOUR-DASHBOARD-LINK-HERE)
+[👉 Click Here to View the Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/home.png)
+[👉 Click Here to View the Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/loan_analysis.png)
+[👉 Click Here to View the Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/deposit_analysis.png)
+[👉 Click Here to View the Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/Summary.png)
